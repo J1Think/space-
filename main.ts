@@ -324,7 +324,7 @@ scene.setBackgroundImage(img`
     `)
 mySprite.setStayInScreen(true)
 mySprite2.setStayInScreen(true)
-info.setLife(111111)
+info.setLife(6)
 info.setScore(0)
 controller.player1.moveSprite(mySprite, 100, 100)
 controller.player2.moveSprite(mySprite2, 100, 100)
